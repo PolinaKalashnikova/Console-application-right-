@@ -27,4 +27,5 @@ public class Breakfast {
         System.out.println("Мороженого съедено: " + sumIce_Cream);
         System.out.println("Сыра съедено: " + sumCheese);
     }
+
 }
