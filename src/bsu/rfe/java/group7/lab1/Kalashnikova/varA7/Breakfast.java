@@ -24,7 +24,7 @@ public class Breakfast {
         }
         System.out.println("Количество съеденных продуктов:  " + (sumApple+sumIce_Cream+sumCheese));
         System.out.println("Яблок съедено: " + sumApple);
-        System.out.println("Бургеров съедено: " + sumIce_Cream);
+        System.out.println("Мороженого съедено: " + sumIce_Cream);
         System.out.println("Сыра съедено: " + sumCheese);
     }
 }
